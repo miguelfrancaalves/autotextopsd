@@ -1,4 +1,4 @@
-Photoshop - Automação de Texto e Exportação
+# Photoshop - Automação de Texto e Exportação
 
 Ferramenta para automatização no Photoshop que permite editar camadas de texto com base em uma lista de nomes e exportar os resultados como imagens PNG.
 
