@@ -201,4 +201,4 @@ Este projeto é distribuído como código aberto.
 
 ## Autor
 
-MIGUEL - SKYLABS
+Miguel França Alves.
